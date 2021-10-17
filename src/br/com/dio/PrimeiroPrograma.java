@@ -11,7 +11,7 @@ public class PrimeiroPrograma {
         int b = 3;
 
         System.out.println("Hello World > " + (a+b));*/
-        Livro livro0 = new Livro(nomeLivro: "w", numPagina:300);
+//        Livro livro0 = new Livro(nomeLivro: "w", numPagina:300);
     }
 }
 
